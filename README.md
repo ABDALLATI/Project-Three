@@ -13,11 +13,10 @@ https://abdallati.github.io/Project-Three/
 ## 🛠️ Built With
 - **HTML5** — Semantic markup
 - **CSS3** — Flexbox, Grid, and responsive units
-- **Vanilla JavaScript** — DOM manipulation and interactivity
 
 ## 🧠 What I Learned
 - Building responsive layouts with CSS
-- Organizing project files (css / js / images / webfonts)
+- Organizing project files (css / images / webfonts)
 - Working with custom web fonts
 
 ## 👤 Author
